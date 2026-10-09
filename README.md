@@ -69,9 +69,9 @@
 <div align="center">
   <a href="https://github.com/ssmurfgg04-gif" alt="GitHub stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=EAF0F6&title_color=0891B2&text_color=39516B&icon_color=BE185D&ring_color=FF2A6D" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D" alt="GitHub stats card" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D&v=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=EAF0F6&title_color=0891B2&text_color=39516B&icon_color=BE185D&ring_color=FF2A6D&v=2" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D&v=2" alt="GitHub stats card" />
     </picture>
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=ssmurfgg04-gif" alt="Streak stats">
@@ -151,7 +151,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:7700FF,100:0B0F1A&height=90&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:6D28D9,100:FFFFFF&height=90&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A5F3FC,50:BAE6FD,100:FFFFFF&height=90&section=footer" />
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:7700FF,100:0B0F1A&height=90&section=footer" alt="neon wave divider" />
   </picture>
 </div>
