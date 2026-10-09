@@ -14,6 +14,8 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - uses: actions/checkout@v4
+
       # a magenta beak eating cyan dots — brand palette, daily refresh
       - name: generate neon snake
         uses: Platane/snk/svg-only@v3
@@ -22,6 +24,13 @@ jobs:
           outputs: |
             dist/snake.svg?color_snake=#FF2A6D&color_dots=#DCE7F0,#B9DCEA,#8FD0E0,#54D4E4,#05D9E8
             dist/snake-dark.svg?color_snake=#FF2A6D&color_dots=#101526,#0F3B46,#0E5A6E,#08B0C2,#05D9E8
+
+      # self-hosted stats card — kills the flaky readme-stats shared instance
+      - name: render self-hosted stats card
+        continue-on-error: true
+        run: python3 scripts/render_stats.py dist/stats-dark.svg dist/stats-light.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
