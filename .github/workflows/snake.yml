@@ -1,8 +1,8 @@
-name: ❄ arctic snake
+name: neon snake
 
 on:
   schedule:
-    # daily at 02:00 UTC = 05:00 Nairobi (EAT) — fresh ice every morning
+    # daily at 02:00 UTC = 05:00 Nairobi (EAT) — fresh neon every morning
     - cron: "0 2 * * *"
   workflow_dispatch:
 
@@ -14,14 +14,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # an orange beak eating ice-blue dots — brand palette, daily refresh
-      - name: generate arctic snake
+      # a magenta beak eating cyan dots — brand palette, daily refresh
+      - name: generate neon snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_snake=#E67E09&color_dots=#EAF3F9,#C6DEF0,#8FC3E8,#5AA3D9,#2C7BBF
-            dist/snake-dark.svg?color_snake=#FF9E1B&color_dots=#0D1B2A,#16405F,#1E5C8A,#2E7FB8,#7CDBF5
+            dist/snake.svg?color_snake=#FF2A6D&color_dots=#EDF2F7,#D9F4F8,#A8E8F0,#54D4E4,#05D9E8
+            dist/snake-dark.svg?color_snake=#FF2A6D&color_dots=#101526,#0F3B46,#0E5A6E,#08B0C2,#05D9E8
 
       - name: push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
