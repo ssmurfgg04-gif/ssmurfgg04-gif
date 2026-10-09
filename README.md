@@ -93,7 +93,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/ssmurfgg04-gif?label=FOLLOWERS&style=for-the-badge&color=1E5C8A" alt="followers" />
-  <img src="https://img.shields.io/github/repos/ssmurfgg04-gif?label=REPOS%20SHIPPED&style=for-the-badge&color=7CDBF5" alt="public repos" />
+  <img src="https://img.shields.io/badge/waddling%20since-2025-7CDBF5?style=for-the-badge" alt="waddling since 2025" />
   <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/context-m?label=%E2%98%85%20CORTEXM&style=for-the-badge&color=FF9E1B" alt="cortexm stars" />
   <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/falling-sand?label=%E2%98%85%20FALLING-SAND&style=for-the-badge&color=FF9E1B" alt="falling-sand stars" />
   <img src="https://img.shields.io/badge/OPEN_TO_WORK-HIREABLE-2EA043?style=for-the-badge" alt="hireable" />
