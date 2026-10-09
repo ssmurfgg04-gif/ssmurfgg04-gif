@@ -11,7 +11,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=9CCFD8&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%E2%80%94+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" alt="Typing SVG — full-stack builder, Nairobi" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=9CCFD8&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%E2%80%94+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=0E7490&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%E2%80%94+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=9CCFD8&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%E2%80%94+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" alt="Typing SVG — full-stack builder, Nairobi" />
+    </picture>
   </a>
 </div>
 
@@ -64,14 +68,26 @@
 
 <div align="center">
   <a href="https://github.com/ssmurfgg04-gif" alt="GitHub stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D" alt="GitHub stats card" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=EAF0F6&title_color=0891B2&text_color=39516B&icon_color=BE185D&ring_color=FF2A6D" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D" alt="GitHub stats card" />
+    </picture>
   </a>
-  <a href="https://github.com-readme-streak-stats.herokuapp.com/?user=ssmurfgg04-gif" alt="Streak stats">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ssmurfgg04-gif&hide_border=true&background=0B0F1A&stroke=0B0F1A&ring=05D9E8&fire=FF2A6D&currStreakLabel=9CCFD8&sideLabels=6E6A86&currStreakNum=F6C177&sideNums=9CCFD8&dates=6E6A86" alt="GitHub streak stats card" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=ssmurfgg04-gif" alt="Streak stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ssmurfgg04-gif&hide_border=true&background=0B0F1A&stroke=0B0F1A&ring=05D9E8&fire=FF2A6D&currStreakLabel=9CCFD8&sideLabels=6E6A86&currStreakNum=F6C177&sideNums=9CCFD8&dates=6E6A86" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ssmurfgg04-gif&hide_border=true&background=EAF0F6&stroke=EAF0F6&ring=0891B2&fire=FF2A6D&currStreakLabel=39516B&sideLabels=64748B&currStreakNum=D97706&sideNums=39516B&dates=64748B" />
+      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ssmurfgg04-gif&hide_border=true&background=0B0F1A&stroke=0B0F1A&ring=05D9E8&fire=FF2A6D&currStreakLabel=9CCFD8&sideLabels=6E6A86&currStreakNum=F6C177&sideNums=9CCFD8&dates=6E6A86" alt="GitHub streak stats card" />
+    </picture>
   </a>
 </div>
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssmurfgg04-gif&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D" alt="Top languages card" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ssmurfgg04-gif&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ssmurfgg04-gif&layout=compact&langs_count=8&hide_border=true&bg_color=EAF0F6&title_color=0891B2&text_color=39516B&icon_color=BE185D&ring_color=FF2A6D" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssmurfgg04-gif&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D" alt="Top languages card" />
+  </picture>
 </div>
 
 ---
@@ -80,7 +96,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,rust,js,html,css,astro,react,nodejs,tailwind,docker,git,githubactions,linux,vim,sqlite&perline=8&theme=dark" alt="Skills: python, typescript, rust, javascript, html, css, astro, react, nodejs, tailwind, docker, git, github actions, linux, vim, sqlite" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,rust,js,html,css,astro,react,nodejs,tailwind,docker,git,githubactions,linux,vim,sqlite&perline=8&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,rust,js,html,css,astro,react,nodejs,tailwind,docker,git,githubactions,linux,vim,sqlite&perline=8&theme=light" />
+      <img src="https://skillicons.dev/icons?i=py,ts,rust,js,html,css,astro,react,nodejs,tailwind,docker,git,githubactions,linux,vim,sqlite&perline=8&theme=dark" alt="Skills: python, typescript, rust, javascript, html, css, astro, react, nodejs, tailwind, docker, git, github actions, linux, vim, sqlite" />
+    </picture>
   </a>
 </div>
 
@@ -89,10 +109,10 @@
 ## ~/records
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/ssmurfgg04-gif?label=FOLLOWERS&style=for-the-badge&color=0E7A8A" alt="followers" />
-  <img src="https://img.shields.io/badge/waddling%20since-2025-4C1D95?style=for-the-badge" alt="waddling since 2025" />
-  <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/context-m?label=%E2%98%85%20CORTEXM&style=for-the-badge&color=831843" alt="cortexm stars" />
-  <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/falling-sand?label=%E2%98%85%20FALLING-SAND&style=for-the-badge&color=831843" alt="falling-sand stars" />
+  <img src="https://img.shields.io/github/followers/ssmurfgg04-gif?label=FOLLOWERS&style=for-the-badge&color=0891B2" alt="followers" />
+  <img src="https://img.shields.io/badge/waddling%20since-2025-6D28D9?style=for-the-badge" alt="waddling since 2025" />
+  <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/context-m?label=%E2%98%85%20CORTEXM&style=for-the-badge&color=BE185D" alt="cortexm stars" />
+  <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/falling-sand?label=%E2%98%85%20FALLING-SAND&style=for-the-badge&color=BE185D" alt="falling-sand stars" />
   <img src="https://img.shields.io/badge/OPEN_TO_WORK-HIREABLE-2EA043?style=for-the-badge" alt="hireable" />
 </div>
 
@@ -129,7 +149,11 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:7700FF,100:0B0F1A&height=90&section=footer" alt="neon wave divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:7700FF,100:0B0F1A&height=90&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:6D28D9,100:EAF0F6&height=90&section=footer" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:7700FF,100:0B0F1A&height=90&section=footer" alt="neon wave divider" />
+  </picture>
 </div>
 
 <div align="center">
