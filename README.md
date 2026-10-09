@@ -1,10 +1,10 @@
-<!-- tux.sys v4.0 — neon edition · 100% self-hosted visual system:
-     assets/neon-hero.svg  → animated SVG · synthwave grid, banded sun, cyber Tux, glitch title
-     assets/tux-unit04.svg → UNIT-04 holo panel · radar sweep, scanning visor, terminal belly
+<!-- arctic.chrome v5.0 — 100% self-hosted visual system:
+     assets/hero.gif       → generative spirograph mandala · steel-cyan on deep navy · perfect 4.3s loop
+     assets/spiro-core.gif → pocket mandala · same geometry, breathing in the whoami panel
      output/snake-*.svg    → regenerated daily by .github/workflows/snake.yml -->
 
 <div align="center">
-  <img src="assets/neon-hero.svg" width="100%" alt="Cyberpunk penguin on a neon synthwave grid under a banded sun — title NEON://TUX" />
+  <img src="assets/hero.gif" width="100%" alt="Generative spirograph mandala in arctic steel-blue on deep navy — rotating string-art geometry, radar pings, an orbiting satellite, and a small penguin waddling at the core" />
 </div>
 
 <br/>
@@ -40,7 +40,7 @@
 </td>
 <td width="42%" valign="middle" align="center">
 
-<img src="assets/tux-unit04.svg" width="360" alt="UNIT-04: cyberpunk penguin hologram card with rotating radar sweep, cyan visor eyes and a terminal screen on its belly" />
+<img src="assets/spiro-core.gif" width="360" alt="Pocket spirograph mandala with a small penguin at its core — slowly rotating generative geometry in steel-cyan on navy" />
 
 *me, deploying to prod on a friday*
 
