@@ -34,7 +34,7 @@
 
 **Superpower** — belly-slides from `main` to production without spilling the coffee.
 
-**Current status** — hireable · hunting bounties · shipping Rust at −40°C.
+**Current status** — hireable · building in the open · shipping Rust at −40°C.
 
 </td>
 <td width="42%" valign="middle" align="center">
@@ -53,7 +53,7 @@
 
 | | project | what it does |
 |:---:|:---|:---|
-| ⏰ | [**cronlish**](https://github.com/ssmurfgg04-gif/cronlish) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/cronlish?style=flat-square&color=FF9E1B&label=%E2%98%85" alt="stars" /> | cron expressions → plain human language. Tiny, deterministic, stdlib-only — with a **$400 open bounty** |
+| 🌋 | [**falling-sand**](https://github.com/ssmurfgg04-gif/falling-sand) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/falling-sand?style=flat-square&color=FF9E1B&label=%E2%98%85" alt="stars" /> | an entire physics playground in one HTML file — 14 materials, lava, gunpowder, gardens · [play it live](https://ssmurfgg04-gif.github.io/falling-sand/) |
 | 🗿 | [**cairn**](https://github.com/ssmurfgg04-gif/cairn) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/cairn?style=flat-square&color=FF9E1B&label=%E2%98%85" alt="stars" /> | content-addressed chunked sync & storage for professional video teams — git-for-video, written in Rust |
 | 🧠 | [**cortexm**](https://github.com/ssmurfgg04-gif/context-m) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/context-m?style=flat-square&color=FF9E1B&label=%E2%98%85" alt="stars" /> | deterministic agent memory — μ=0, free, local, forever. Mem0-compatible, zero LLM calls |
 | 🔪 | [**dsv**](https://github.com/ssmurfgg04-gif/dsv) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/dsv?style=flat-square&color=FF9E1B&label=%E2%98%85" alt="stars" /> | the data swiss knife — CSV / Parquet / JSONL CLI in Rust. Modern xsv with all 33 community PRs merged |
@@ -94,15 +94,14 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/ssmurfgg04-gif?label=FOLLOWERS&style=for-the-badge&color=1E5C8A" alt="followers" />
   <img src="https://img.shields.io/github/repos/ssmurfgg04-gif?label=REPOS%20SHIPPED&style=for-the-badge&color=7CDBF5" alt="public repos" />
-  <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/cronlish?label=%E2%98%85%20CRONLISH&style=for-the-badge&color=FF9E1B" alt="cronlish stars" />
   <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/context-m?label=%E2%98%85%20CORTEXM&style=for-the-badge&color=FF9E1B" alt="cortexm stars" />
+  <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/falling-sand?label=%E2%98%85%20FALLING-SAND&style=for-the-badge&color=FF9E1B" alt="falling-sand stars" />
   <img src="https://img.shields.io/badge/OPEN_TO_WORK-HIREABLE-2EA043?style=for-the-badge" alt="hireable" />
-  <img src="https://img.shields.io/badge/BOUNTY-%24400%20OPEN-8A2BE2?style=for-the-badge" alt="bounty open" />
 </div>
 
 | arctic record | the ice remembers |
 |:---|:---|
-| 🥇 most-starred repo | [cronlish](https://github.com/ssmurfgg04-gif/cronlish) — six stars and climbing, one belly-slide at a time |
+| 🌋 showpiece | [falling-sand](https://github.com/ssmurfgg04-gif/falling-sand) — a whole physics engine in one HTML file, zero dependencies, 43k cells at 60fps |
 | 💪 hardest flex | three Rust engines and counting — video storage, data tooling, no fear |
 | 🧊 chill factor | penguins can't fly. neither can deploys on fridays. we ship anyway |
 | 🐧 spirit animal | formal but chaotic · resilient underdog · tuxedo at all times |
