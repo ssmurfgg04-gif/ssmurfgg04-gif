@@ -1,10 +1,14 @@
-<!-- arctic.chrome v5.0 — 100% self-hosted visual system:
-     assets/hero.gif       → generative spirograph mandala · steel-cyan on deep navy · perfect 4.3s loop
-     assets/spiro-core.gif → pocket mandala · same geometry, breathing in the whoami panel
+<!-- galaxy.spiro v6.0 — 100% self-hosted visual system:
+     assets/galaxy.gif + galaxy-light.gif → generative spirograph galaxy · ignition core inside a dark eclipse shell, orbital rings, tilted accretion orbit · perfect 4.3s loop · auto light/dark
+     assets/spiro-core.gif → pocket mandala breathing in the whoami panel
      output/snake-*.svg    → regenerated daily by .github/workflows/snake.yml -->
 
 <div align="center">
-  <img src="assets/hero.gif" width="100%" alt="Generative spirograph mandala in arctic steel-blue on deep navy — rotating string-art geometry, radar pings, an orbiting satellite, and a small penguin waddling at the core" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/galaxy.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/galaxy-light.gif" />
+    <img src="assets/galaxy.gif" width="100%" alt="Generative spirograph galaxy: a bright core igniting inside a dark eclipse shell, rotating string-art geometry, concentric orbital rings, a tilted accretion orbit and an amber comet, over a layered starfield in arctic blue" />
+  </picture>
 </div>
 
 <br/>
@@ -12,9 +16,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=9CCFD8&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%E2%80%94+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=0E7490&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%E2%80%94+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" />
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=9CCFD8&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%E2%80%94+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" alt="Typing SVG — full-stack builder, Nairobi" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=9CCFD8&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%C2%B7+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=0E7490&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%C2%B7+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=9CCFD8&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%C2%B7+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" alt="Typing SVG — full-stack builder, Nairobi" />
     </picture>
   </a>
 </div>
@@ -27,15 +31,15 @@
 <tr>
 <td width="58%" valign="top">
 
-**Species** — *Spheniscus developericus*: the tuxedo penguin. Upright posture, sleek swimmer, looks like it has its life together.
+**Species**: *Spheniscus developericus*, the tuxedo penguin. Upright posture, sleek swimmer, looks like it has its life together.
 
-**Habitat** — Nairobi, Kenya. Deploys worldwide. Warm body, cold cache.
+**Habitat**: Nairobi, Kenya. Deploys worldwide. Warm body, cold cache.
 
-**Diet** — coffee, bug bounties, distributed systems, and the occasional 40GB CSV.
+**Diet**: coffee, bug bounties, distributed systems, and the occasional 40GB CSV.
 
-**Superpower** — belly-slides from `main` to production without spilling the coffee.
+**Superpower**: belly-slides from `main` to production without spilling the coffee.
 
-**Current status** — hireable · building in the open · shipping Rust at 60fps.
+**Current status**: hireable · building in the open · shipping Rust at 60fps.
 
 </td>
 <td width="42%" valign="middle" align="center">
@@ -50,17 +54,17 @@
 
 ---
 
-## ~/featured — five things worth pinning
+## ~/featured: five things worth pinning
 
 | | project | what it does |
 |:---:|:---|:---|
-| 01 | [**falling-sand**](https://github.com/ssmurfgg04-gif/falling-sand) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/falling-sand?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | an entire physics playground in one HTML file — 14 materials, lava, gunpowder, gardens · [play it live](https://ssmurfgg04-gif.github.io/falling-sand/) |
-| 02 | [**cairn**](https://github.com/ssmurfgg04-gif/cairn) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/cairn?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | content-addressed chunked sync &amp; storage for professional video teams — git-for-video, written in Rust |
-| 03 | [**cortexm**](https://github.com/ssmurfgg04-gif/context-m) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/context-m?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | deterministic agent memory — μ=0, free, local, forever. Mem0-compatible, zero LLM calls |
-| 04 | [**dsv**](https://github.com/ssmurfgg04-gif/dsv) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/dsv?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | the data swiss knife — CSV / Parquet / JSONL CLI in Rust. Modern xsv with all 33 community PRs merged |
-| 05 | [**太一剑宗 Taiyi Sword Sect**](https://github.com/ssmurfgg04-gif/taiyi-sword-sect) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/taiyi-sword-sect?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | cinematic wuxia single-page experience — ink, paper &amp; cinnabar, animated with anime.js v4 |
+| 01 | [**falling-sand**](https://github.com/ssmurfgg04-gif/falling-sand) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/falling-sand?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | an entire physics playground in one HTML file: 14 materials, lava, gunpowder, gardens · [play it live](https://ssmurfgg04-gif.github.io/falling-sand/) |
+| 02 | [**cairn**](https://github.com/ssmurfgg04-gif/cairn) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/cairn?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | content-addressed chunked sync &amp; storage for professional video teams: git-for-video, written in Rust |
+| 03 | [**cortexm**](https://github.com/ssmurfgg04-gif/context-m) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/context-m?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | deterministic agent memory: μ=0, free, local, forever. Mem0-compatible, zero LLM calls |
+| 04 | [**dsv**](https://github.com/ssmurfgg04-gif/dsv) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/dsv?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | the data swiss knife: CSV / Parquet / JSONL CLI in Rust. Modern xsv with all 33 community PRs merged |
+| 05 | [**太一剑宗 Taiyi Sword Sect**](https://github.com/ssmurfgg04-gif/taiyi-sword-sect) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/taiyi-sword-sect?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | cinematic wuxia single-page experience in ink, paper &amp; cinnabar, animated with anime.js v4 |
 
-**→ the rest of the shelf:** [54 public repos](https://github.com/ssmurfgg04-gif?tab=repositories) — POS systems for Kenyan businesses, physics playgrounds, cultivation frameworks, and other experiments that refused to stay in drafts.
+**→ the rest of the shelf:** [54 public repos](https://github.com/ssmurfgg04-gif?tab=repositories): POS systems for Kenyan businesses, physics playgrounds, cultivation frameworks, and other experiments that refused to stay in drafts.
 
 ---
 
@@ -118,8 +122,8 @@
 
 | record | the terminal remembers |
 |:---|:---|
-| showpiece | [falling-sand](https://github.com/ssmurfgg04-gif/falling-sand) — a whole physics engine in one HTML file, zero dependencies, 43k cells at 60fps |
-| hardest flex | three Rust engines and counting — video storage, data tooling, no fear |
+| showpiece | [falling-sand](https://github.com/ssmurfgg04-gif/falling-sand): a whole physics engine in one HTML file, zero dependencies, 43k cells at 60fps |
+| hardest flex | three Rust engines and counting: video storage, data tooling, no fear |
 | unit | UNIT-04 · formal but chaotic · tuxedo at all times |
 | protocol | penguins can't fly. neither can deploys on fridays. we ship anyway |
 
@@ -165,6 +169,6 @@
     <img src="https://img.shields.io/badge/twitter-@SsmurfGg-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter" />
   </a>
   <br/><br/>
-  <sub><i>"Talk is cheap. Show me the penguin."</i> — loosely, <a href="https://github.com/torvalds">the man who made the penguin famous</a></sub><br/>
+  <sub><i>"Talk is cheap. Show me the penguin."</i> (loosely, <a href="https://github.com/torvalds">the man who made the penguin famous</a>)</sub><br/>
   <sub>handcrafted in the neon district by <a href="https://github.com/ssmurfgg04-gif">a penguin with commit access</a></sub>
 </div>
