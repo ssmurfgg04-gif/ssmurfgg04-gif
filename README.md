@@ -1,4 +1,4 @@
-<!-- galaxy.particles v7.0 — 100% self-hosted visual system:
+<!-- galaxy.particles v7.0 - 100% self-hosted visual system:
      assets/particle-galaxy.gif + particle-galaxy-light.gif → 6,200-particle spiral galaxy · four grand-design arms, radial gradient, orbital rings, amber comet · perfect 6.4 s loop · auto light/dark
      output/stats-*.svg + output/snake-*.svg → regenerated daily by .github/workflows/snake.yml -->
 
@@ -34,7 +34,7 @@
 | 04 | [**dsv**](https://github.com/ssmurfgg04-gif/dsv) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/dsv?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | the data swiss knife: CSV / Parquet / JSONL CLI in Rust. Modern xsv with all 33 community PRs merged |
 | 05 | [**太一剑宗 Taiyi Sword Sect**](https://github.com/ssmurfgg04-gif/taiyi-sword-sect) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/taiyi-sword-sect?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | cinematic wuxia single-page experience in ink, paper &amp; cinnabar, animated with anime.js v4 |
 
-**→ the rest:** [54 public repos](https://github.com/ssmurfgg04-gif?tab=repositories) — POS systems for Kenyan businesses, physics playgrounds, cultivation frameworks, and other experiments.
+**→ the rest:** [54 public repos](https://github.com/ssmurfgg04-gif?tab=repositories): POS systems for Kenyan businesses, physics playgrounds, cultivation frameworks, and other experiments.
 
 ---
 
@@ -45,7 +45,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/stats-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/stats-light.svg" />
-      <img height="165" src="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/stats-dark.svg" alt="GitHub stats — commits, stars, followers, repos" />
+      <img height="165" src="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/stats-dark.svg" alt="GitHub stats: commits, stars, followers, repos" />
     </picture>
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=ssmurfgg04-gif" alt="Streak stats">
