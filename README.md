@@ -1,13 +1,12 @@
-<!-- galaxy.spiro v6.0 — 100% self-hosted visual system:
-     assets/galaxy.gif + galaxy-light.gif → generative spirograph galaxy · ignition core inside a dark eclipse shell, orbital rings, tilted accretion orbit · perfect 4.3s loop · auto light/dark
-     assets/spiro-core.gif → pocket mandala breathing in the whoami panel
-     output/snake-*.svg    → regenerated daily by .github/workflows/snake.yml -->
+<!-- galaxy.particles v7.0 — 100% self-hosted visual system:
+     assets/particle-galaxy.gif + particle-galaxy-light.gif → 6,200-particle spiral galaxy · four grand-design arms, radial gradient, orbital rings, amber comet · perfect 6.4 s loop · auto light/dark
+     output/stats-*.svg + output/snake-*.svg → regenerated daily by .github/workflows/snake.yml -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/galaxy.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/galaxy-light.gif" />
-    <img src="assets/galaxy.gif" width="100%" alt="Generative spirograph galaxy: a bright core igniting inside a dark eclipse shell, rotating string-art geometry, concentric orbital rings, a tilted accretion orbit and an amber comet, over a layered starfield in arctic blue" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/particle-galaxy.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/particle-galaxy-light.gif" />
+    <img src="assets/particle-galaxy.gif" width="100%" alt="A spiral galaxy of 6,200 glowing particles in four sweeping arms, a bright core fading through cyan and blue-violet to a pink rim, inside faint orbital rings with an amber comet, over a starfield" />
   </picture>
 </div>
 
@@ -16,41 +15,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=9CCFD8&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%C2%B7+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=0E7490&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%C2%B7+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" />
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1400&color=9CCFD8&center=true&vCenter=true&random=false&width=650&height=100&lines=full-stack+builder+%C2%B7+Nairobi+%E2%86%92+the+world;python+%C2%B7+rust+%C2%B7+typescript+%C2%B7+whatever+ships;cold+code%2C+warm+commits" alt="Typing SVG — full-stack builder, Nairobi" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1600&color=9CCFD8&center=true&vCenter=true&random=false&width=620&height=70&lines=full-stack+developer+%C2%B7+nairobi%2C+kenya;python+%C2%B7+rust+%C2%B7+typescript" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1600&color=0E7490&center=true&vCenter=true&random=false&width=620&height=70&lines=full-stack+developer+%C2%B7+nairobi%2C+kenya;python+%C2%B7+rust+%C2%B7+typescript" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1600&color=9CCFD8&center=true&vCenter=true&random=false&width=620&height=70&lines=full-stack+developer+%C2%B7+nairobi%2C+kenya;python+%C2%B7+rust+%C2%B7+typescript" alt="full-stack developer · nairobi, kenya · python, rust, typescript" />
     </picture>
   </a>
 </div>
-
----
-
-## ~/whoami
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-**Species**: *Spheniscus developericus*, the tuxedo penguin. Upright posture, sleek swimmer, looks like it has its life together.
-
-**Habitat**: Nairobi, Kenya. Deploys worldwide. Warm body, cold cache.
-
-**Diet**: coffee, bug bounties, distributed systems, and the occasional 40GB CSV.
-
-**Superpower**: belly-slides from `main` to production without spilling the coffee.
-
-**Current status**: hireable · building in the open · shipping Rust at 60fps.
-
-</td>
-<td width="42%" valign="middle" align="center">
-
-<img src="assets/spiro-core.gif" width="360" alt="Pocket spirograph mandala with a small penguin at its core — slowly rotating generative geometry in steel-cyan on navy" />
-
-*me, deploying to prod on a friday*
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -64,7 +34,7 @@
 | 04 | [**dsv**](https://github.com/ssmurfgg04-gif/dsv) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/dsv?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | the data swiss knife: CSV / Parquet / JSONL CLI in Rust. Modern xsv with all 33 community PRs merged |
 | 05 | [**太一剑宗 Taiyi Sword Sect**](https://github.com/ssmurfgg04-gif/taiyi-sword-sect) <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/taiyi-sword-sect?style=flat-square&color=FF2A6D&label=%E2%98%85" alt="stars" /> | cinematic wuxia single-page experience in ink, paper &amp; cinnabar, animated with anime.js v4 |
 
-**→ the rest of the shelf:** [54 public repos](https://github.com/ssmurfgg04-gif?tab=repositories): POS systems for Kenyan businesses, physics playgrounds, cultivation frameworks, and other experiments that refused to stay in drafts.
+**→ the rest:** [54 public repos](https://github.com/ssmurfgg04-gif?tab=repositories) — POS systems for Kenyan businesses, physics playgrounds, cultivation frameworks, and other experiments.
 
 ---
 
@@ -114,7 +84,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/ssmurfgg04-gif?label=FOLLOWERS&style=for-the-badge&color=0891B2" alt="followers" />
-  <img src="https://img.shields.io/badge/waddling%20since-2025-6D28D9?style=for-the-badge" alt="waddling since 2025" />
+  <img src="https://img.shields.io/badge/on%20github%20since-2025-6D28D9?style=for-the-badge" alt="on github since 2025" />
   <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/context-m?label=%E2%98%85%20CORTEXM&style=for-the-badge&color=BE185D" alt="cortexm stars" />
   <img src="https://img.shields.io/github/stars/ssmurfgg04-gif/falling-sand?label=%E2%98%85%20FALLING-SAND&style=for-the-badge&color=BE185D" alt="falling-sand stars" />
   <img src="https://img.shields.io/badge/OPEN_TO_WORK-HIREABLE-2EA043?style=for-the-badge" alt="hireable" />
@@ -123,9 +93,7 @@
 | record | the terminal remembers |
 |:---|:---|
 | showpiece | [falling-sand](https://github.com/ssmurfgg04-gif/falling-sand): a whole physics engine in one HTML file, zero dependencies, 43k cells at 60fps |
-| hardest flex | three Rust engines and counting: video storage, data tooling, no fear |
-| unit | UNIT-04 · formal but chaotic · tuxedo at all times |
-| protocol | penguins can't fly. neither can deploys on fridays. we ship anyway |
+| hardest flex | three Rust engines and counting: video storage, data tooling, and whatever comes next |
 
 ---
 
@@ -135,20 +103,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/snake.svg" />
-    <img alt="contribution graph snake animation in neon colors" src="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/snake-dark.svg" />
+    <img alt="contribution graph snake animation" src="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/snake-dark.svg" />
   </picture>
 
-  <sub>a magenta beak eating cyan dots · regenerated daily by <a href="https://github.com/ssmurfgg04-gif/ssmurfgg04-gif/blob/main/.github/workflows/snake.yml">neon-snake.yml</a></sub>
+  <sub>regenerated daily by <a href="https://github.com/ssmurfgg04-gif/ssmurfgg04-gif/blob/main/.github/workflows/snake.yml">snake.yml</a></sub>
 </div>
-
----
-
-<details>
-<summary>sudo make me a sandwich</summary>
-
-<br>okay. one belly-slide, coming up.
-
-</details>
 
 ---
 
@@ -156,12 +115,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:7700FF,100:0B0F1A&height=90&section=footer" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A5F3FC,50:BAE6FD,100:FFFFFF&height=90&section=footer" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:7700FF,100:0B0F1A&height=90&section=footer" alt="neon wave divider" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:7700FF,100:0B0F1A&height=90&section=footer" alt="wave divider" />
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ssmurfgg04-gif&style=flat-square&color=05D9E8&label=PENGUIN+SIGHTINGS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ssmurfgg04-gif&style=flat-square&color=05D9E8&label=VIEWS" alt="profile views" />
   <a href="https://creativedivineconcepts.com">
     <img src="https://img.shields.io/badge/website-creativedivineconcepts.com-05D9E8?style=flat-square&logo=vercel&logoColor=white" alt="website" />
   </a>
@@ -169,6 +128,6 @@
     <img src="https://img.shields.io/badge/twitter-@SsmurfGg-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter" />
   </a>
   <br/><br/>
-  <sub><i>"Talk is cheap. Show me the penguin."</i> (loosely, <a href="https://github.com/torvalds">the man who made the penguin famous</a>)</sub><br/>
-  <sub>handcrafted in the neon district by <a href="https://github.com/ssmurfgg04-gif">a penguin with commit access</a></sub>
+  <sub><i>"Talk is cheap. Show me the code."</i> — <a href="https://github.com/torvalds">Linus Torvalds</a></sub><br/>
+  <sub>built in nairobi by <a href="https://github.com/ssmurfgg04-gif">ssmurfgg04-gif</a></sub>
 </div>
