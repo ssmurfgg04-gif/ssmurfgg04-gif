@@ -69,9 +69,9 @@
 <div align="center">
   <a href="https://github.com/ssmurfgg04-gif" alt="GitHub stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D&v=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=EAF0F6&title_color=0891B2&text_color=39516B&icon_color=BE185D&ring_color=FF2A6D&v=2" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=ssmurfgg04-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F1A&title_color=05D9E8&text_color=9CCFD8&icon_color=FF2A6D&ring_color=FF2A6D&v=2" alt="GitHub stats card" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/stats-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/stats-light.svg" />
+      <img height="165" src="https://raw.githubusercontent.com/ssmurfgg04-gif/ssmurfgg04-gif/output/stats-dark.svg" alt="GitHub stats — commits, stars, followers, repos" />
     </picture>
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=ssmurfgg04-gif" alt="Streak stats">
