@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="195" viewBox="0 0 500 195" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+  <rect width="500" height="195" rx="6" fill="#0B0F1A"/>
+  <text x="30" y="44" font-size="18" font-weight="700" fill="#05D9E8">ssmurfgg04-gif</text>
+  <text x="470" y="42" font-size="11" fill="#6E6A86" text-anchor="end" letter-spacing="1">ARCTIC TELEMETRY</text>
+  <line x1="30" y1="58" x2="470" y2="58" stroke="#1C2740" stroke-width="1"/>
+  
+  <g transform="translate(30,72)"><g fill="#FF2A6D" stroke="none"><circle cx="4.5" cy="12" r="3"/><circle cx="11.5" cy="4" r="3"/><path d="M11.5 7 v1.5 a3 3 0 0 1 -3 3 H7.5" fill="none" stroke="#FF2A6D" stroke-width="1.6"/></g></g>
+  <text x="58" y="84" font-size="14" fill="#9CCFD8" letter-spacing="1.2">COMMITS</text>
+  <text x="470" y="84" font-size="15" font-weight="700" fill="#F2F8FF" text-anchor="end">956</text>
+  <g transform="translate(30,100)"><g fill="#FF2A6D" stroke="none"><path d="M8 1.5 l1.9 4.1 4.4 .5 -3.3 3 1 4.4 L8 11.3 4 13.5 5 9.1 1.7 6.1 6.1 5.6 Z"/></g></g>
+  <text x="58" y="112" font-size="14" fill="#9CCFD8" letter-spacing="1.2">STARS EARNED</text>
+  <text x="470" y="112" font-size="15" font-weight="700" fill="#F2F8FF" text-anchor="end">22</text>
+  <g transform="translate(30,128)"><g fill="#FF2A6D" stroke="none"><circle cx="8" cy="4.5" r="3.2"/><path d="M1.8 15.5 a6.2 6.2 0 0 1 12.4 0 Z"/></g></g>
+  <text x="58" y="140" font-size="14" fill="#9CCFD8" letter-spacing="1.2">FOLLOWERS</text>
+  <text x="470" y="140" font-size="15" font-weight="700" fill="#F2F8FF" text-anchor="end">20</text>
+  <g transform="translate(30,156)"><g fill="#FF2A6D" stroke="none"><path d="M2.5 2.5 h7 a2 2 0 0 1 2 2 v9 h-9 a2 2 0 0 1 -2 -2 Z M11.5 4.5 h2 v9 h-2" fill="none" stroke="#FF2A6D" stroke-width="1.7"/></g></g>
+  <text x="58" y="168" font-size="14" fill="#9CCFD8" letter-spacing="1.2">PUBLIC REPOS</text>
+  <text x="470" y="168" font-size="15" font-weight="700" fill="#F2F8FF" text-anchor="end">55</text>
+  <text x="470" y="183" font-size="9.5" fill="#6E6A86" text-anchor="end">self-hosted · auto-refreshed 02:00 UTC · 2026-10-10 08:09 UTC</text>
+</svg>
